@@ -1,2 +1,2 @@
 # Big Red Button That Copies Whatever You Type
-self-explanatory
+ok so. basically right. its this. big red button. and. theres also a big text box. whatever you type into the textbox. gets copied. onto your clipboard. as soon as you press. the big red button.
